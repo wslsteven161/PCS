@@ -22,6 +22,7 @@ namespace APOTEK
     /// </summary>
     public partial class MainWindow : Window
     {
+        //lalalallaal
         string cs;
         OracleConnection oc;
         menu m;
